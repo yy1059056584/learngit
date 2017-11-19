@@ -1,1 +1,1 @@
-This is the test of the git learn.
+Creating a new branch is quick.
